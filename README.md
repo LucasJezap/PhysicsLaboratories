@@ -5,4 +5,5 @@ Wrzuciłem tu wykonane przeze mnie sprawozdania z laboratoriów wraz z kodem nap
 <a href="https://github.com/LucasJezap/PhysicsLaboratories/tree/master/%C4%86wiczenie%2029"> Ćwiczenie 29  
 <a href="https://github.com/LucasJezap/PhysicsLaboratories/tree/master/%C4%86wiczenie%2031"> Ćwiczenie 31  
 <a href="https://github.com/LucasJezap/PhysicsLaboratories/tree/master/%C4%86wiczenie%2041"> Ćwiczenie 41  
-<a href="https://github.com/LucasJezap/PhysicsLaboratories/tree/master/%C4%86wiczenie%2071"> Ćwiczenie 71
+<a href="https://github.com/LucasJezap/PhysicsLaboratories/tree/master/%C4%86wiczenie%2071"> Ćwiczenie 71  
+<a href="https://github.com/LucasJezap/PhysicsLaboratories/tree/master/%C4%86wiczenie%2082"> Ćwiczenie 82  
